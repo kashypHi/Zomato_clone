@@ -1,6 +1,6 @@
-# Zobeto Clone
+# Zomato Clone
 
-A responsive and visually appealing clone of the popular food discovery platform Zomato. Zobeto allows users to explore restaurants, search for cuisines or dishes, and access login functionality in a simple, intuitive UI.
+A responsive and visually appealing clone of the popular food discovery platform Zomato. Zomato allows users to explore restaurants, search for cuisines or dishes, and access login functionality in a simple, intuitive UI.
 
 ---
 
@@ -40,7 +40,7 @@ A responsive and visually appealing clone of the popular food discovery platform
 
    ```bash
    git clone https://github.com/kashypHi/Zomato_clone.git
-   cd zobeto-clone
+   cd Zomato-clone
    ```
 
 2. **Open Locally**
@@ -57,7 +57,7 @@ A responsive and visually appealing clone of the popular food discovery platform
 ## 📁 Project Structure
 
 ```plaintext
-zobeto-clone/
+Zomato-clone/
 ├── index.html       # Main landing page
 ├── Login.html       # User login page
 ├── style.css        # Global styling rules
