@@ -92,8 +92,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## 👤
 
-* **Your Name** – [https://github.com/kashypHi](https://github.com/kashypHi)
+* **Profile link** – [https://github.com/kashypHi](https://github.com/kashypHi)
 
 Happy coding! 🍽️
